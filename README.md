@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div align="center">
   <a href="https://github.com/JessycadeOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessycadeOliveira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>

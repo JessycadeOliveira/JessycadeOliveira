@@ -1,10 +1,11 @@
 ## Hello, My name is Jessyca! 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/JessycadeOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessycadeOliveira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessycadeOliveira&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessycadeOliveira&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessycadeOliveira&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
+
 
 <div>
   <a href="https://instagram.com/thiagojacoblannes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
